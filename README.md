@@ -286,15 +286,18 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Healthcare Professionals** - For valuable feedback and insights
 
 
-## Support
+## Our Team Members
 
 For support and questions:
 
-- Email: [support@nabhasehatsewa.com](mailto:support@nabhasehatsewa.com)
-- Documentation: [Project Wiki](https://github.com/your-username/nabha-sehat-sewa/wiki)
-- Issues: [GitHub Issues](https://github.com/your-username/nabha-sehat-sewa/issues)
+-Team Lead->Anisha Bharghava(FRONTEND AND UI/UX)
+-Members -> Debasmita Mahapatra(FRONTEND AND UI/UX)
+-Members -> Shreyash Pandey(Backend,Database & APIs)
+-Members -> Aditya Pundir (Backend)
+-Members -> Ajitesh Saxena ( Authentication and Security)
+-Members -> Satavisha Chowdhury (Ideation and entire Design Flow)
 
 
 ---
 
-**Made with ❤️ for the healthcare community of Nabha**
+**Made with ❤️ for the Rural community of Nabha**
